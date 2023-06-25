@@ -68,7 +68,7 @@ const Footer = () => {
         </div>
       </div>
       <div className='flexBetween foot_copyright'>
-        <p>@ 2023 Flexibble. All rights reserved</p>
+        <p className='text-gray-200 text-sm'>@ 2023 Flexibble. All rights reserved</p>
       </div>
     </footer>
   )
